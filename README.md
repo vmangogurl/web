@@ -1,2 +1,0 @@
-# web
-mangokick.net site
